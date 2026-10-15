@@ -26,7 +26,7 @@
 
 ## 👨‍🔬 About Me
 
-I am a **PhD in Cybersecurity** and **Associate Professor** at the **National Aerospace University "Kharkiv Aviation Institute" (KhAI)**, Department of Cybersecurity and Intelligent Information Technologies (503) .
+I am a **PhD in Cybersecurity** and **Associate Professor** at the **National Aerospace University "Kharkiv Aviation Institute" (KhAI)**, Department of Cybersecurity and Intelligent Information Technologies (503).
 
 My research focuses on the **cybersecurity of smart systems**, **Internet of Drones (IoD)**, **UAV fleet security**, and **IoT / Edge Computing**. I combine academic research with hands-on engineering, teaching courses on IoT programming, databases, and blockchain technologies.
 
@@ -56,8 +56,16 @@ My research focuses on the **cybersecurity of smart systems**, **Internet of Dro
 | **PhD in Cybersecurity** | National Aerospace University "KhAI" | 2024 |
 | **M.Sc. in Computer Engineering** | National Aerospace University "KhAI" | 2019 |
 | **B.Sc. in Computer Engineering** | National Aerospace University "KhAI" | 2018 |
+| **UI/UX Web Designer** | Ukrainian IT School, Kharkiv | 2016 |
 
 **Additional training:** Big Course on AI in Education (2025), Inclusive Student-Centred Pedagogy — EUNICE (2025), Teaching in Times of War — Kyiv-Mohyla Academy (2024), Google Cybersecurity — Coursera (2023).
+
+---
+
+## 🌍 International Experience
+
+- **Internship** — Republic of Poland *(11 May – 11 July 2026)*
+- **Erasmus+ ALIOT** — *Internet of Things: Emerging Curriculum for Industry and Human Applications* (No. 573885-EPP-1-2016-1-UK-EPPKA2-CBHE-JP), EU programme *(2016 – 2019)*
 
 ---
 
@@ -66,6 +74,7 @@ My research focuses on the **cybersecurity of smart systems**, **Internet of Dro
 - **Associate Professor** — Department of Cybersecurity and Intelligent Information Technologies, KhAI *(2025 – present)*
 - **Senior Lecturer** — Department of Computer Systems, Networks and Cybersecurity, KhAI *(2024 – 2025)*
 - **Assistant / PhD Student** — Department of Computer Systems, Networks and Cybersecurity, KhAI *(2020 – 2024)*
+- **Teacher of Information Technology** — Aerospace Lyceum at KhAI *(2018 – 2020)*
 
 ---
 
@@ -97,13 +106,24 @@ My research focuses on the **cybersecurity of smart systems**, **Internet of Dro
 
 ---
 
+## 🎤 Conference Participation
+
+- **IEEE DESSERT** — Dependable Systems, Services and Technologies
+- **IntelITSIS** — Intelligent Information Technologies & Systems of Information Security
+- **ICTM** — Integrated Computer Technologies in Mechanical Engineering
+- **RECI** — International Workshop on Reliability Engineering and Computational Intelligence
+- **SCIFIC** — Student Conference on Information, Functional and Cybersecurity *(Co-chair & Website Administrator)*
+
+---
+
 ## 🛰️ Research Projects
 
 - **State Budget Project No. 0124U003250** — Methods and technologies for modeling and dependability of mobile intelligent systems for critical infrastructure *(2024 – 2026, Executor)*
 - **State Budget Project No. 0121U112172** — Scientific foundations and methods for ensuring the trustworthiness of UAV fleets of intelligent monitoring systems *(2021 – 2023, Executor)*
 - **State Budget Project No. 0121U113842** — Methods, models and information technologies for reliability and safety of complex IT systems *(2021 – 2023, Executor)*
 - **State Budget Project No. 0122U001065** — Methods, software and hardware for dependability of Industrial IoT systems *(2022 – 2023, Executor)*
-- **Erasmus+ ALIOT (No. 573885-EPP-1-2016-1-UK-EPPKA2-CBHE-JP)** — *Internet of Things: Emerging Curriculum for Industry and Human Applications* *(2016 – 2019, Member of academic group from KhAI)*
+- **State Budget Project No. 0117U05349** — Methods, software and hardware for development and modernization of trustworthy computer systems *(2018 – 2020, Executor)*
+- **State Budget Project No. 0118U003822** — Methodology of sustainable development and IT of green computing *(2018 – 2020, Executor)*
 
 ---
 
@@ -118,8 +138,9 @@ My research focuses on the **cybersecurity of smart systems**, **Internet of Dro
 - Blockchain Technologies and Cryptocurrency Security
 - Protection of Information in Computer Systems
 - Cybersecurity of Unmanned Systems
+- Software of Microprocessor Systems
 
-**Author of academic programs and methodological materials** for the courses above. Mentor at the KhAI distance learning platform ([mentor.khai.edu](https://mentor.khai.edu)).
+Author of academic programs and methodological materials for the courses above. Supervisor of **bachelor's and master's theses**. Mentor at the KhAI distance learning platform ([mentor.khai.edu](https://mentor.khai.edu)).
 
 ---
 
@@ -128,7 +149,7 @@ My research focuses on the **cybersecurity of smart systems**, **Internet of Dro
 **Reviewer for international journals:**
 
 - International Journal of Information and Communication Sciences (SciencePG, USA)
-- Medicon Engineering Themes (Impact Factor 2.003, Singapure)
+- Medicon Engineering Themes (Impact Factor 2.003, Singapore)
 - PriMera Scientific Engineering (Impact Factor 0.915, USA)
 - International Journal on Information Technologies and Security (IJITS, Bulgaria)
 
@@ -141,23 +162,31 @@ My research focuses on the **cybersecurity of smart systems**, **Internet of Dro
 
 ---
 
+## 🎨 Community & Volunteering
+
+- **Organizer Assistant** — The Global Game Jam, KhAI *(2018 – 2020)*
+- **Mentor** — PeriSC Conference (Perspective Network and Computer Technologies), KhAI
+- **Website Developer & Administrator** — SCIFIC conference website ([scific-conference.github.io](https://scific-conference.github.io/SCIFIC-conference/en/index.html))
+
+---
+
 ## 🛠️ Tech Stack
 
-**Languages & Web**
+**Programming Languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Visual Basic](https://img.shields.io/badge/Visual_Basic-512BD4?style=for-the-badge&logo=visualbasic&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **IoT & Embedded**
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-3C5280?style=for-the-badge&logo=mqtt&logoColor=white)
@@ -165,18 +194,44 @@ My research focuses on the **cybersecurity of smart systems**, **Internet of Dro
 **Databases & Data**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 
-**Tools & Design**
+**Design & UI/UX**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white)
+![CorelDRAW](https://img.shields.io/badge/CorelDRAW-000000?style=for-the-badge&logo=coreldraw&logoColor=green)
+
+**Dev Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)
+
+**LMS & Educational Tools**
+
+![Moodle](https://img.shields.io/badge/Moodle-F98012?style=for-the-badge&logo=moodle&logoColor=white)
+![Canvas](https://img.shields.io/badge/Canvas-E72429?style=for-the-badge&logo=canvas&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
+
+---
+
+## 🗣️ Languages
+
+- **Ukrainian** — Native
+- **English** — Upper-Intermediate (Professional)
+- **Russian** — Native / Second native
 
 ---
 
@@ -208,7 +263,7 @@ My research focuses on the **cybersecurity of smart systems**, **Internet of Dro
     <img src="https://img.shields.io/badge/SSRN-7593922-1B365D?style=for-the-badge&logo=ssrn&logoColor=white" />
   </a>
   <a href="https://library.khai.edu/ua/authors/zemlyanko-georgyaj-andryajovich">
-    <img src="https://img.shields.io/badge/KhAI_Library-Profile-003366?style=for-the-badge&logo=read-the-docs&logoColor=white" />
+    <img src="https://img.shields.io/badge/KhAI_Library-Profile-003366?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
 </p>
 
@@ -230,6 +285,12 @@ My research focuses on the **cybersecurity of smart systems**, **Internet of Dro
     <img src="https://img.shields.io/badge/KhAI-University_Page-0055A4?style=for-the-badge&logo=academia&logoColor=white" />
   </a>
 </p>
+
+---
+
+## 🎯 Hobbies & Interests
+
+🎨 Drawing · 📷 Photography · ✈️ Traveling · 📮 Collecting Postage Stamps · 🏓 Table Tennis · 🎮 Gaming · 📚 Reading
 
 ---
 
