@@ -26,13 +26,13 @@
 
 ## 👨‍🔬 About Me
 
-I am a **PhD in Cybersecurity** and **Associate Professor** at the **National Aerospace University "Kharkiv Aviation Institute" (KhAI)**, Department of Computer Systems, Networks and Cybersecurity.
+I am a **PhD in Cybersecurity** and **Associate Professor** at the **National Aerospace University "Kharkiv Aviation Institute" (KhAI)**, Department of Cybersecurity and Intelligent Information Technologies (503) .
 
 My research focuses on the **cybersecurity of smart systems**, **Internet of Drones (IoD)**, **UAV fleet security**, and **IoT / Edge Computing**. I combine academic research with hands-on engineering, teaching courses on IoT programming, databases, and blockchain technologies.
 
 - 🏆 **Laureate of the Prize of the President of Ukraine for Young Scientists (2025)**
 - 🎓 **Scholarship of the Cabinet of Ministers of Ukraine for Young Scientists (2024–2026)**
-- 🔬 Author of **60+ scientific publications** (Scopus, Web of Science, Springer LNNS, CEUR-WS)
+- 🔬 Author of **30+ scientific publications** (Scopus, Web of Science, Springer LNNS, CEUR-WS)
 - 👨‍🏫 Teaching **IoT, Databases, Blockchain & Cybersecurity** courses at KhAI
 - 📫 Contact: **g.zemlynko@csn.khai.edu**
 
@@ -41,10 +41,10 @@ My research focuses on the **cybersecurity of smart systems**, **Internet of Dro
 ## 🔬 Research Interests
 
 - **Cybersecurity of Smart Systems** — smart city, critical infrastructure, cyber-physical systems
-- **Internet of Drones (IoD)** — UAV cyber vulnerabilities, radio frequency attacks, IMECA modelling
+- **Internet of Drones (IoD)** — UAV cyber vulnerabilities, radio frequency attacks, attacks modelling
 - **UAV Fleet Security** — combined fleets of aerial, ground and sea vehicles
 - **IoT & Edge Computing** — prototyping and rapid development of IoT systems
-- **Cyber Risk Analysis** — IMECA-based assessment, safety-informed security
+- **Cyber Risk Analysis** — risk-assessment methodology, safety-informed security
 - **Blockchain Technologies** — cryptocurrency security, distributed systems
 
 ---
@@ -174,8 +174,6 @@ My research focuses on the **cybersecurity of smart systems**, **Internet of Dro
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
