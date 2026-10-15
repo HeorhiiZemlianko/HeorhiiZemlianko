@@ -78,6 +78,74 @@ My research focuses on the **cybersecurity of smart systems**, **Internet of Dro
 
 ---
 
+## 💼 Professional Experience (Outside Academia)
+
+Beyond my academic career, I have hands-on experience in **freelance design, project management, and digital content strategy**. This industry background shapes the way I teach — I bring a **real-world engineering and product mindset** into the classroom, connect theory to practice, and mentor students on how to deliver actual client-ready work.
+
+---
+
+### 📣 Online Content Manager — *Stroykeeper* · `2021`
+
+Managed the full content pipeline for a construction & building-materials company, owning both the visual and textual side of the brand's digital presence.
+
+**Responsibilities & Achievements:**
+- **Content production** — wrote, edited and optimized text, graphic and multimedia content for the corporate website, social media (Facebook, Instagram), email campaigns and other digital platforms.
+- **Content strategy** — built and maintained the editorial calendar, planned regular updates, and ensured consistent brand voice across all channels.
+- **SEO & optimization** — adapted content for search engines and audience engagement (headlines, meta, visuals, calls to action).
+- **Analytics** — conducted ongoing analysis of the market, target audience and competitors to refine messaging and publishing schedule.
+- **Cross-channel coordination** — synchronized publishing across website, social media and email to maximize reach.
+
+**Tools:** Facebook Business Suite · Instagram · email marketing platforms · Google Workspace · graphic editors (Photoshop, Illustrator, Canva-style tools) · analytics dashboards.
+
+---
+
+### 📋 Project Manager, UX/UI Design Department — *Upwork / Freelance* · `2018`
+
+Led end-to-end delivery of design projects for international clients on Upwork, acting as the single point of contact between clients and the design team.
+
+**Responsibilities & Achievements:**
+- **Project initiation** — gathered requirements, defined scope, prepared briefs and estimated timelines.
+- **Planning & execution** — built project plans, allocated tasks, tracked progress, and delivered on schedule.
+- **Client communication** — ran discovery calls and status updates, managed expectations and iterated on feedback until full client satisfaction.
+- **Team coordination** — aligned designers, developers and stakeholders around shared deliverables.
+- **Process improvement** — analyzed existing workflows, identified bottlenecks and introduced improved project management practices.
+- **Documentation** — maintained project documentation, mockup handoffs and delivery reports.
+
+**Tools:** Upwork platform · Trello / task-tracking boards · Figma · Adobe XD · Google Workspace · Slack-style communication.
+
+---
+
+### 🎨 UX/UI Designer — *Upwork / Freelance* · `2016 – 2018`
+
+Designed digital products and print materials for a wide range of international clients — from startups to small businesses.
+
+**Responsibilities & Achievements:**
+- **Web design** — designed responsive websites and landing pages with focus on usability and conversion.
+- **Mobile design** — created UI concepts and layouts for mobile applications.
+- **Branding & print** — designed business cards, flyers, brochures and other marketing materials.
+- **Prototyping** — built wireframes, mockups and interactive prototypes for client review and handoff to developers.
+- **Client collaboration** — worked directly with clients through the full design cycle: brief → concept → iteration → final delivery.
+- **Design systems** — maintained consistent typography, color schemes and visual language across all deliverables.
+
+**Tools:** Adobe Photoshop · Adobe Illustrator · Adobe XD · Figma · CorelDRAW · prototyping and layout tools.
+
+---
+
+### 🔧 Engineer — *National Aerospace University "KhAI"* · `2019 – 2020`
+
+Provided technical support for the department's hardware and equipment, combining engineering diagnostics with organizational responsibilities.
+
+**Responsibilities & Achievements:**
+- **Technical support** — ensured reliable operation of technical systems, computers and laboratory equipment used by the department.
+- **Diagnostics & troubleshooting** — identified hardware and software faults, performed repairs and preventive maintenance.
+- **Procurement** — participated in the selection, ordering and acceptance of equipment and materials for the department.
+- **Documentation** — maintained equipment records and technical documentation.
+- **Lab support** — assisted in preparing hardware for student laboratory work and research activities.
+
+**Skills applied:** hardware diagnostics · microcontroller and PC troubleshooting · technical documentation · procurement coordination.
+
+---
+
 ## 🏆 Honors & Awards
 
 - 🥇 **Prize of the President of Ukraine for Young Scientists (2025)** — for the work *"Ensuring Cybersecurity of Computer Systems and Networks of Critical Infrastructure Facilities"* (Decree of the President of Ukraine No. 863/2025)
