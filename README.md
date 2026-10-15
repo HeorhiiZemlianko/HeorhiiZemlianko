@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Heorhii+Zemlianko+%F0%9F%91%8B;PhD+in+Cybersecurity;Associate+Professor+at+KhAI;UAV+%26+IoT+Security+Researcher;Laureate+of+the+Prize+of+the+President+of+Ukraine" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Heorhii+Zemlianko+%F0%9F%91%8B;PhD+in+Cybersecurity;Associate+Professor+at+KhAI;UAV+%26+IoT+Security+Researcher" alt="Typing SVG" />
 </h1>
 
 <p align="center">
