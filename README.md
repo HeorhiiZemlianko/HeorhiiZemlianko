@@ -128,8 +128,8 @@ My research focuses on the **cybersecurity of smart systems**, **Internet of Dro
 **Reviewer for international journals:**
 
 - International Journal of Information and Communication Sciences (SciencePG, USA)
-- Medicon Engineering Themes (Impact Factor 2.003)
-- PriMera Scientific Engineering (Impact Factor 0.915)
+- Medicon Engineering Themes (Impact Factor 2.003, Singapure)
+- PriMera Scientific Engineering (Impact Factor 0.915, USA)
 - International Journal on Information Technologies and Security (IJITS, Bulgaria)
 
 **Membership:**
