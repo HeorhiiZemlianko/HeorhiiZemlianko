@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Heorhii+Zemlianko+%F0%9F%91%8B;PhD+in+Cybersecurity;Associate+Professor+at+KhAI;IoT+%26+UAV+Security+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Heorhii+Zemlianko+%F0%9F%91%8B;PhD+in+Cybersecurity;Associate+Professor+at+KhAI;UAV+%26+IoT+Security+Researcher;Laureate+of+the+Prize+of+the+President+of+Ukraine" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -17,46 +17,79 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HeorhiiZemlianko&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/HeorhiiZemlianko?label=Followers&style=social" alt="Followers" />
+</p>
+
 ---
 
-## 🧑‍🔬 About Me
+## 👨‍🔬 About Me
 
-- **PhD in Cybersecurity** | **Associate Professor** at National Aerospace University "Kharkiv Aviation Institute" (KhAI)
-- Research interests: **Cybersecurity of Smart Systems**, **Internet of Drones (IoD)**, **UAV Fleet Security**, **IoT & Edge Computing**
-- Teaching: **WEB-программирование**, **Интерфейсы (ПЗ МП систем)**
+I am a **PhD in Cybersecurity** and **Associate Professor** at the **National Aerospace University "Kharkiv Aviation Institute" (KhAI)**, Department of Computer Systems, Networks and Cybersecurity.
+
+My research focuses on the **cybersecurity of smart systems**, **Internet of Drones (IoD)**, **UAV fleet security**, and **IoT / Edge Computing**. I combine academic research with hands-on engineering, teaching courses on IoT programming, databases, and blockchain technologies.
+
+- 🏆 **Laureate of the Prize of the President of Ukraine for Young Scientists (2025)**
+- 🎓 **Scholarship of the Cabinet of Ministers of Ukraine for Young Scientists (2024–2026)**
+- 🔬 Author of **60+ scientific publications** (Scopus, Web of Science, Springer LNNS, CEUR-WS)
+- 👨‍🏫 Teaching **IoT, Databases, Blockchain & Cybersecurity** courses at KhAI
 - 📫 Contact: **g.zemlynko@csn.khai.edu**
 
 ---
 
 ## 🔬 Research Interests
 
-| Area | Description |
-|---|---|
-| **Cybersecurity of Smart Systems** | Protection of cyber-physical systems, Smart City, IoT infrastructures |
-| **Internet of Drones (IoD)** | UAV cyber vulnerabilities, radio frequency attacks, IMECA modeling |
-| **UAV Fleet Security** | Cybersecurity of combined aerial, ground and sea drone fleets |
-| **IoT & Edge Computing** | Prototyping and rapid development of IoT systems on edge computing |
-| **Game Concept in IT** | Game approaches in information technologies |
-| **UX/UI Design** | User interface design |
+- **Cybersecurity of Smart Systems** — smart city, critical infrastructure, cyber-physical systems
+- **Internet of Drones (IoD)** — UAV cyber vulnerabilities, radio frequency attacks, IMECA modelling
+- **UAV Fleet Security** — combined fleets of aerial, ground and sea vehicles
+- **IoT & Edge Computing** — prototyping and rapid development of IoT systems
+- **Cyber Risk Analysis** — IMECA-based assessment, safety-informed security
+- **Blockchain Technologies** — cryptocurrency security, distributed systems
 
 ---
 
 ## 🎓 Education
 
-- **PhD (Доктор філософії)** — National Aerospace University "KhAI", specialty "Computer Engineering", 2024
-- **Master's Degree (Диплом магістра)** — KhAI, specialty 123 "Computer Engineering", 2019
-- **Bachelor's Degree (Диплом бакалавра)** — KhAI, specialty 6.050102 "Computer Engineering", 2018
+| Degree | Institution | Year |
+|---|---|---|
+| **PhD in Cybersecurity** | National Aerospace University "KhAI" | 2024 |
+| **M.Sc. in Computer Engineering** | National Aerospace University "KhAI" | 2019 |
+| **B.Sc. in Computer Engineering** | National Aerospace University "KhAI" | 2018 |
+
+**Additional training:** Big Course on AI in Education (2025), Inclusive Student-Centred Pedagogy — EUNICE (2025), Teaching in Times of War — Kyiv-Mohyla Academy (2024), Google Cybersecurity — Coursera (2023).
+
+---
+
+## 💼 Academic Positions
+
+- **Associate Professor** — Department of Cybersecurity and Intelligent Information Technologies, KhAI *(2025 – present)*
+- **Senior Lecturer** — Department of Computer Systems, Networks and Cybersecurity, KhAI *(2024 – 2025)*
+- **Assistant / PhD Student** — Department of Computer Systems, Networks and Cybersecurity, KhAI *(2020 – 2024)*
+
+---
+
+## 🏆 Honors & Awards
+
+- 🥇 **Prize of the President of Ukraine for Young Scientists (2025)** — for the work *"Ensuring Cybersecurity of Computer Systems and Networks of Critical Infrastructure Facilities"* (Decree of the President of Ukraine No. 863/2025)
+- 🎓 **Scholarship of the Cabinet of Ministers of Ukraine for Young Scientists** *(2024 – 2026)*
+- 🥈 **Diploma of the 2nd Degree** — *"Young Innovator"* Contest, Best Innovative Proposal (2024)
+- 🥉 **Diploma of the 3rd Degree** — University Programming Cup among teachers, UCUP-2025
+- 📜 **Utility Model Patent** — *"Digital Control System for an Unmanned Aerial Vehicle"* (application u 2025 05410)
+- 📜 **Patent of Ukraine No. 156075** — *"Method of Information Transmission in Wireless Telecommunication Networks"* (2024)
 
 ---
 
 ## 📚 Selected Publications
 
-- **Zemlianko, H., & Kharchenko, V.** (2024). Ensuring Cybersecurity of the Cyber Physical System of Combined Fleets of Unmanned Aerial, Ground and Sea Vehicles. *Lecture Notes in Networks and Systems*, vol. 996. Springer. [DOI](https://doi.org/10.1007/978-3-031-60549-9_29)
-- **Zemlianko, H., & Kharchenko, V.** (2023). Cybersecurity risk analysis of multifunctional UAV fleet systems: a conceptual model and IMECA-based technique. *Radioelectronic and Computer Systems*, №4, 225–233. [DOI](https://doi.org/10.32620/reks.2023.4.11)
-- **Zemlianko, H., & Leichenko, K.** (2022). "Smart City" Technology: Conception, Security Issues and Cases. *Lecture Notes in Networks and Systems*, vol. 367, pp. 207–218. Springer. [DOI](https://doi.org/10.1007/978-3-030-94259-5_19)
-- **Pevnev, V., Tsuranov, M., Zemlianko, H., & Amelina, O.** (2021). Conceptual Model of Information Security. *Lecture Notes in Networks and Systems*, vol. 188, pp. 158–168. Springer. [DOI](https://doi.org/10.1007/978-3-030-66717-7_14)
-- **Torianyk, V., Kharchenko, V., & Zemlianko, H.** (2021). IMECA Based Assessment of Internet of Drones Systems Cyber Security Considering Radio Frequency Vulnerabilities. *IntelITSIS, CEUR Workshop Proceedings*, pp. 460–470. [PDF](https://ceur-ws.org/Vol-2853/paper50.pdf)
-- **Plakhteyev, A., Zemlianko, H., & Kharchenko, V.** (2020). Prototyping and Rapid Development of IoT Systems in Context of Edge Computing. *Lecture Notes in Networks and Systems*, vol. 1113, pp. 257–267. Springer. [DOI](https://doi.org/10.1007/978-3-030-37618-5_23)
+1. **Zemlianko, H.** (2025). *Methods and Tools for Ensuring Cybersecurity of Multifunctional UAV Fleet Systems under Combined Cyberattacks* [Monograph]. Kharkiv: FOP Brovin O.V.
+2. Ivasiuk, O., Kharchenko, V., & **Zemlianko, H.** (2025). From security-informed safety to safety-informed security: methodology and case for PLC-based I&C assessment. *International Journal of Computing*, 603–610. [DOI](https://doi.org/10.47839/ijc.24.3.4199)
+3. **Zemlianko, H., & Kharchenko, V.** (2024). Ensuring Cybersecurity of the Cyber Physical System of Combined Fleets of Unmanned Aerial, Ground and Sea Vehicles. *Lecture Notes in Networks and Systems*, vol. 996. Springer. [DOI](https://doi.org/10.1007/978-3-031-60549-9_29)
+4. **Zemlianko, H., & Kharchenko, V.** (2024). Cyber security systems of highly functional UAV fleets for monitoring critical infrastructure. *Elektronnoe modelirovanie*, 46(1), 41–54. [DOI](https://doi.org/10.15407/emodel.46.01.041)
+5. **Zemlianko, H., & Kharchenko, V.** (2023). Cybersecurity risk analysis of multifunctional UAV fleet systems: a conceptual model and IMECA-based technique. *Radioelectronic and Computer Systems*, (4), 152–170. [DOI](https://doi.org/10.32620/reks.2023.4.11)
+6. Pevnev, V., Frolov, A., Tsuranov, M., & **Zemlianko, H.** (2022). Ensuring the Data Integrity in Infocommunication Systems. *International Journal of Computing*, 21(2), 228–233. [DOI](https://doi.org/10.47839/ijc.21.2.2591)
+7. Pevnev, V., Plakhteev, A., Tsuranov, M., **Zemlianko, H., & Leichenko, K.** (2022). "Smart City" Technology: Conception, Security Issues and Cases. *Lecture Notes in Networks and Systems*, vol. 367, pp. 207–218. Springer. [DOI](https://doi.org/10.1007/978-3-030-94259-5_19)
+8. Torianyk, V., Kharchenko, V., & **Zemlianko, H.** (2021). IMECA-based assessment of Internet of Drones systems cyber security considering radio frequency vulnerabilities. *IntelITSIS, CEUR Workshop Proceedings*, pp. 460–470. [PDF](https://ceur-ws.org/Vol-2853/paper50.pdf)
 
 <p align="center">
   <a href="https://scholar.google.com/citations?user=k66HEqcAAAAJ&hl=ru"><b>📖 Full publication list → Google Scholar</b></a>
@@ -64,31 +97,88 @@
 
 ---
 
+## 🛰️ Research Projects
+
+- **State Budget Project No. 0124U003250** — Methods and technologies for modeling and dependability of mobile intelligent systems for critical infrastructure *(2024 – 2026, Executor)*
+- **State Budget Project No. 0121U112172** — Scientific foundations and methods for ensuring the trustworthiness of UAV fleets of intelligent monitoring systems *(2021 – 2023, Executor)*
+- **State Budget Project No. 0121U113842** — Methods, models and information technologies for reliability and safety of complex IT systems *(2021 – 2023, Executor)*
+- **State Budget Project No. 0122U001065** — Methods, software and hardware for dependability of Industrial IoT systems *(2022 – 2023, Executor)*
+- **Erasmus+ ALIOT (No. 573885-EPP-1-2016-1-UK-EPPKA2-CBHE-JP)** — *Internet of Things: Emerging Curriculum for Industry and Human Applications* *(2016 – 2019, Member of academic group from KhAI)*
+
+---
+
 ## 👨‍🏫 Teaching
 
-- **WEB-программирование** — National Aerospace University "KhAI"
-- **Интерфейсы (ПЗ МП систем)** — National Aerospace University "KhAI"
+**Courses at KhAI:**
+
+- Programming IoT Systems
+- Building and Cybersecurity of the Internet of Things
+- Databases
+- Database Organization and Security
+- Blockchain Technologies and Cryptocurrency Security
+- Protection of Information in Computer Systems
+- Cybersecurity of Unmanned Systems
+
+**Author of academic programs and methodological materials** for the courses above. Mentor at the KhAI distance learning platform ([mentor.khai.edu](https://mentor.khai.edu)).
+
+---
+
+## 🧪 Peer Review & Memberships
+
+**Reviewer for international journals:**
+
+- International Journal of Information and Communication Sciences (SciencePG, USA)
+- Medicon Engineering Themes (Impact Factor 2.003)
+- PriMera Scientific Engineering (Impact Factor 0.915)
+- International Journal on Information Technologies and Security (IJITS, Bulgaria)
+
+**Membership:**
+
+- Internet Society — *Internet Governance Middle East* & *Internet of Things* communities
+- Phoenix Contact Technology Society (Germany)
+- International Educators and Scholars Foundation (IESF)
+- Co-chair & Website Administrator of the *Student Conference on Information, Functional and Cybersecurity* (SCIFIC)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages & Web
+**Languages & Web**
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### IoT & Embedded
+**IoT & Embedded**
+
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-3C5280?style=for-the-badge&logo=mqtt&logoColor=white)
 
-### Tools & Platforms
+**Databases & Data**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+**Tools & Design**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
 ---
 
@@ -116,6 +206,12 @@
   <a href="https://scholarprofiles.com/0000-8643-2056">
     <img src="https://img.shields.io/badge/Scholar_Profiles-0000--8643--2056-FF6B6B?style=for-the-badge&logo=openaccess&logoColor=white" />
   </a>
+  <a href="https://hq.ssrn.com/Participant.cfm?partid=7593922">
+    <img src="https://img.shields.io/badge/SSRN-7593922-1B365D?style=for-the-badge&logo=ssrn&logoColor=white" />
+  </a>
+  <a href="https://library.khai.edu/ua/authors/zemlyanko-georgyaj-andryajovich">
+    <img src="https://img.shields.io/badge/KhAI_Library-Profile-003366?style=for-the-badge&logo=read-the-docs&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -132,10 +228,17 @@
   <a href="mailto:g.zemlynko@csn.khai.edu">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://khai.edu/staff-member/zemlanko-georgij-andrijovic">
+    <img src="https://img.shields.io/badge/KhAI-University_Page-0055A4?style=for-the-badge&logo=academia&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>⭐ From <a href="https://github.com/HeorhiiZemlianko">Heorhii Zemlianko</a> with ❤️</i>
+  <i>⭐ "Security is not a product, but a process." — Bruce Schneier</i>
+</p>
+
+<p align="center">
+  <i>From <a href="https://github.com/HeorhiiZemlianko">Heorhii Zemlianko</a> with ❤️</i>
 </p>
